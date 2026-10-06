@@ -1,0 +1,17 @@
+{
+    "name": "your-theme",
+    "displayName": "Your Theme",
+    "description": "Your Theme",
+    "version": "1.0",
+    "author": { "name": "Your Name", "email": "your@email.com", "url": "http://your.website/" },
+    "publisher": "skyhigh636",
+    "license": "CC-BY-4.0",
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            { "id": "your-theme", "path": ".", "variant":  "Normal"}
+        ]
+    }
+}
